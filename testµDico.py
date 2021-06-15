@@ -1,2 +1,0 @@
-from data import donnee
-

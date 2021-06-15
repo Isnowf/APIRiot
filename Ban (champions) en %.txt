@@ -1,0 +1,46 @@
+Ban (champions) en % 
+Overall
+Red Side
+Pour et contre l'équipe
+
+ECONOMY
+
+Gold/Minute
+ΔGold/Minute
+ΔGold@15
+Win Rate when ahead at 15 min
+CS/Minute
+ΔCS@15
+ΔTower@15
+Average ΔTower
+First Tower
+AGGRESSION
+
+Damage/Minute
+First Blood %
+Kill/Game
+Death/Game
+Damage/Gold
+Solo Kill
+First Blood Victime
+Death@10
+PLAYER STATS
+
+Role        Player name    KDA    KP%    VS/M    DMG%    GOLD%    CS/M    DMG/GOLD    ΔGold@15
+OBJECTIVES
+
+Drake / Game
+ΔDrake@15
+First Drake%
+Drake Own        5
+Drake Lose        5
+Drake Own%
+Herald / Game
+First Herald%
+Herald Own        0
+Herald Lose        0
+Herald Own %
+First Nashor%
+Nashor Own        0
+Nashor Lose        0
+Nashor Own %
